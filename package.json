@@ -1,7 +1,7 @@
 {
   "name": "my-app",
   "version": "0.1.0",
-  "homepage": "https://srikrishnabadi.github.io/Poppins-Villa.github.io/", 
+  "homepage": "https://srikrishnabadi.github.io/Poppins-Villa.github.io/",
   "private": true,
   "dependencies": {
     "@emotion/react": "^11.13.3",
